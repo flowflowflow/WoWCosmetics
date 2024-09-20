@@ -1,0 +1,9 @@
+{
+    "name": "WoWCosmetics",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Infamous weapons and armor pieces from World of Warcraft (mostly vanilla) now as MoreCompany cosmetics",
+    "dependencies": [
+        "notnotnotswipez-MoreCompany-1.7.6"
+    ]
+}
